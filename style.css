@@ -32,7 +32,7 @@ h1 {
 
 .head:hover {
 	width: 300px;
-    transition: 1s ease-in-out;
+        transition: 1s ease-in-out;
 }
 
 .upper_body { 
@@ -80,10 +80,10 @@ h1 {
 
 .left_leg:hover {
 	-webkit-transform: rotate(20deg);
-    -moz-transform: rotate(20deg);
-    -o-transform: rotate(20deg);
-    -ms-transform: rotate(20deg);
-    transform: rotate(20deg);
+        -moz-transform: rotate(20deg);
+    	-o-transform: rotate(20deg);
+    	-ms-transform: rotate(20deg);
+    	transform: rotate(20deg);
 }
 
 .right_leg { 
@@ -98,7 +98,6 @@ h1 {
 } 
 
 .left_eye { 
-
 	position: relative; 
 	top: 100px; 
 	left: 40px; 
